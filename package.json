@@ -1,0 +1,16 @@
+{
+    "name": "ourFirstRepo",
+    "description": "an amazing new repo",
+    "authors": "samuel thompson",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+
+    },
+    "repository": {
+        "url": "https://github.com/thomps9012/ourFirstRepo"
+    }
+}
